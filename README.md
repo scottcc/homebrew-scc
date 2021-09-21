@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install scottcc/scc/<formula>`
+`brew install scottcc/homebrew-scc/<formula>`
 
-Or `brew tap scottcc/scc` and then `brew install <formula>`.
+Or `brew tap scottcc/homebrew-scc` and then `brew install <formula>`.
 
 ## Documentation
 
